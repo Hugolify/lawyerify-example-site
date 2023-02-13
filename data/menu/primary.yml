@@ -1,0 +1,19 @@
+links:
+  - title: Les cabinets
+    url: /cabinets/
+    links:
+      - title: Paris
+        url: /cabinets/le-cabinet-de-paris/
+      - title: Bordeaux
+        url: /cabinets/le-cabinet-de-bordeaux/
+  - title: L’équipe
+    url: /equipe/
+  - blank: false
+    title: Expertises
+    url: /expertises/
+  - title: Actualités
+    url: /actualites/
+  - title: Parutions
+    url: /parutions/
+  - title: Contact
+    url: /contact/
