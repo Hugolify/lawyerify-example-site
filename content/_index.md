@@ -57,15 +57,28 @@ blocks:
     section: persons
     show_more: true
     background: true
-    persons:
-      - David Moreau
-      - Louise Dubois
-      - Omar Durand
     title: Les associés du cabinet
     items:
       - david-moreau
       - louise-dubois
       - omar-durand
+  - type: selected-offices
+    section: offices
+    show_more: true
+    background: true
+    title: Les deux cabinets à votre disposition
+    items:
+      - le-cabinet-de-paris
+      - le-cabinet-de-bordeaux
+  - type: selected-expertises
+    section: expertises
+    show_more: true
+    background: true
+    title: Les expertises du cabinet
+    items:
+      - droit-penal
+      - droit-du-travail
+      - droit-des-affaires
   - type: latest
     section: posts
     title: Actualités

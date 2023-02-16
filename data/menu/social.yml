@@ -1,4 +1,7 @@
 links:
-  - title: Lawyerify
-    url: https://www.lawyerify.fr
+  - title: Linkedin
+    url: https://linkedin.com/showcase/lawyerify
+    blank: true
+  - title: Twitter
+    url: https://twitter.com/lawyerify
     blank: true
