@@ -14,7 +14,7 @@ hero:
     url: "#main"
   cta_second:
     text: Lawyerify
-    url: https://www.lawyerify.fr
+    url: https://www.lawyerify.io
     blank: true
 blocks:
   - type: editorial
