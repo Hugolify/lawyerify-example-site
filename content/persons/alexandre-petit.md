@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Alexandre Petit
 offices:
-  - Le cabinet de Bordeaux
+  - Bordeaux
 statutes: collaborator
 expertises:
   - Droit pénal

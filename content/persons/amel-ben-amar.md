@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Amel Ben Amar
 offices:
-  - Le cabinet de Paris
+  - Paris
 statutes: collaborator
 expertises:
   - Droit de la construction et droit immobilier

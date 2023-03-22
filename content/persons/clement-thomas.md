@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Clément Thomas
 offices:
-  - Le cabinet de Paris
+  - Paris
 statutes: trainee
 related:
   - Alexandre Petit

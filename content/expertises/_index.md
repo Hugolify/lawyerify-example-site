@@ -1,5 +1,5 @@
 ---
 isIndex: true
 title: Expertises
-url: "/expertises"
+url: expertises
 ---

@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Louise Dubois
 offices:
-  - Le cabinet de Bordeaux
+  - Bordeaux
 statutes: associate
 expertises:
   - Droit de la construction et droit immobilier

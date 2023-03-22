@@ -3,9 +3,9 @@ links:
     url: /cabinets/
     links:
       - title: Paris
-        url: /cabinets/le-cabinet-de-paris/
+        url: /cabinets/paris/
       - title: Bordeaux
-        url: /cabinets/le-cabinet-de-bordeaux/
+        url: /cabinets/bordeaux/
   - title: L’équipe
     url: /equipe/
   - blank: false

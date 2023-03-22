@@ -1,5 +1,5 @@
 ---
 isIndex: true
 title: Catégories
-url: "/actualites/categories"
+url: actualites/categories
 ---

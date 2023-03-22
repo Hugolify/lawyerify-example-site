@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Omar Durand
 offices:
-  - Le cabinet de Paris
+  - Paris
 statutes: associate
 expertises:
   - Droit du travail

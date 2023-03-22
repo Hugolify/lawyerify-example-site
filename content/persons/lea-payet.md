@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Léa Payet
 offices:
-  - Le cabinet de Bordeaux
+  - Bordeaux
 statutes: jurist
 expertises:
   - Droit de la famille

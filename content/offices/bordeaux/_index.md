@@ -1,7 +1,7 @@
 ---
 isIndex: false
 draft: false
-title: Le cabinet de Bordeaux
+title: Bordeaux
 description: Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel
   tortor tincidunt tristique id nec urna.
 address:

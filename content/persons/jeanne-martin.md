@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Jeanne Martin
 offices:
-  - Le cabinet de Bordeaux
+  - Bordeaux
 statutes: collaborator
 related:
   - Jane Doe

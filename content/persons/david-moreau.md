@@ -3,8 +3,8 @@ isIndex: false
 draft: false
 title: David Moreau
 offices:
-  - Le cabinet de Bordeaux
-  - Le cabinet de Paris
+  - Bordeaux
+  - Paris
 statutes: associate
 expertises:
   - Droit pénal

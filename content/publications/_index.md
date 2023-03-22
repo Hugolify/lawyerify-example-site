@@ -1,5 +1,5 @@
 ---
 isIndex: true
 title: Parutions
-url: "/parutions"
+url: parutions
 ---

@@ -1,5 +1,5 @@
 ---
 isIndex: true
-title: Les cabinets
-url: /cabinets
+title: Cabinets
+url: cabinets
 ---
