@@ -9,6 +9,10 @@ image:
     sur
     [Unsplash](https://unsplash.com/fr/photos/vWchRczcQwM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   src: /images/uploads/cytonn-photography-vwchrczcqwm-unsplash.jpg
+hero:
+  surtitle: Domaine d’expertise
+  title: Droit des affaires
+  text: Le droit des affaires est un domaine du droit qui regroupe l'ensemble des règles juridiques régissant les activités économiques des entreprises et des commerçants, telles que la création, la gestion et la dissolution des sociétés, les contrats commerciaux, les garanties et les litiges commerciaux. Il a pour but de protéger les intérêts économiques des entreprises tout en assurant un cadre juridique stable pour les activités commerciales.
 ---
 Le droit des affaires est un domaine très vaste du droit qui regroupe l'ensemble des règles juridiques régissant les activités économiques des entreprises et des commerçants. Il est un outil essentiel pour les entreprises qui souhaitent opérer de manière efficace et en conformité avec les lois en vigueur.
 

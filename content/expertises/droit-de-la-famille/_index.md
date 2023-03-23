@@ -1,11 +1,13 @@
 ---
 isIndex: false
 title: Droit de la famille
-description: Le droit de la famille concerne les relations entre les membres
-  d'une famille, notamment les questions liées à la mariage, au divorce, à la
-  garde des enfants et à la succession.
+description: Le droit de la famille concerne les relations entre les membres d'une famille, notamment les questions liées à la mariage, au divorce, à la garde des enfants et à la succession.
 image:
   src: /images/uploads/tyler-nix-v3dhmb1moxm-unsplash.jpg
+hero: 
+  surtitle: Domaine d’expertise
+  title: Droit de la famille
+  text: Le droit de la famille concerne les relations entre les membres d'une famille, notamment les questions liées à la mariage, au divorce, à la garde des enfants et à la succession.
 ---
 Le droit de la famille est la branche du droit qui régit les relations entre les membres d'une famille, notamment les questions liées au mariage, au divorce, à la garde des enfants et à la succession. Il a pour objet de protéger les intérêts des membres de la famille, en particulier ceux des enfants, et de régler les litiges qui peuvent survenir entre eux.
 

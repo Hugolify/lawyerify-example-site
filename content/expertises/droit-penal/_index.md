@@ -1,15 +1,17 @@
 ---
 isIndex: false
 title: Droit pénal
-description: Le droit pénal définit les infractions et les sanctions prévues par
-  la loi pour réprimer les comportements illégaux et protéger les personnes et
-  la société contre les atteintes à l'ordre public.
+description: Le droit pénal définit les infractions et les sanctions prévues par la loi pour réprimer les comportements illégaux et protéger les personnes et la société contre les atteintes à l'ordre public.
 image:
   credit: Photo de [Carles
     Rabada](https://unsplash.com/@carlesrgm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     sur
     [Unsplash](https://unsplash.com/fr/photos/gwwWhABtohs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   src: /images/uploads/carles-rabada-gwwwhabtohs-unsplash.jpg
+hero:
+  surtitle: Domaine d’expertise
+  title: Droit pénal
+  text: Le droit pénal définit les infractions et les sanctions prévues par la loi pour réprimer les comportements illégaux et protéger les personnes et la société contre les atteintes à l'ordre public.
 ---
 Le droit pénal est la partie du droit qui régit les infractions et les sanctions prévues par la loi pour réprimer les comportements illégaux. Il a pour objet de protéger les personnes et la société contre les atteintes à l'ordre public, en sanctionnant les auteurs de crimes et de délits. Il définit également les règles de procédure pour poursuivre et juger les personnes accusées d'infractions pénales.
 

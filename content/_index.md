@@ -20,20 +20,16 @@ blocks:
   - type: editorial
     cta:
       blank: false
-      text: Découvrir le cabinet
+      text: Découvrir nos cabinets
       url: /cabinets
     direction: rtl
     title: Le cabinet
     text: >-
-      Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu varius
-      egestas, metus nulla rutrum diam, et accumsan purus lacus vel ante.
-      Suspendisse egestas augue a egestas consectetur. Aliquam interdum
-      hendrerit porta.
+      Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu.
+      Suspendisse egestas augue a egestas consectetur. Aliquam interdum hendrerit porta.
 
 
-
-
-      Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum. Donec varius velit nisi, a accumsan odio molestie ut. Donec quis tristique elit. Nunc tempus tempor neque a fringilla.
+      Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt.
     image:
       src: /images/uploads/clarisse-meyer-jku2nnezabi-unsplash.jpg
   - type: editorial
@@ -41,13 +37,13 @@ blocks:
     cta:
       blank: false
       url: /expertises
-      text: Découvrir en détail
+      text: Nos domaines d’expertise en détail
     background: false
     image:
       src: /images/uploads/mikhail-pavstyuk-eky2otrpxdw-unsplash.jpg
     title: Nos expertises
     text: >-
-      Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna. Nunc tempus felis ante, eget commodo ex ullamcorper eu. 
+      Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor. 
 
 
 
@@ -55,7 +51,7 @@ blocks:
       Cras vel tincidunt urna. Aliquam tempor tincidunt augue, in iaculis neque consectetur et.
   - type: selected-persons
     section: persons
-    show_more: true
+    show_more: false
     background: true
     title: Les associés du cabinet
     items:
@@ -64,17 +60,18 @@ blocks:
       - omar-durand
   - type: selected-offices
     section: offices
-    show_more: true
+    show_more: false
     background: true
-    title: Les deux cabinets à votre disposition
+    title: Deux cabinets à votre disposition
     items:
-      - le-cabinet-de-paris
-      - le-cabinet-de-bordeaux
+      - paris
+      - bordeaux
   - type: selected-expertises
     section: expertises
-    show_more: true
+    show_more: false
     background: true
     title: Les expertises du cabinet
+    text: Découvrez en détail nos domaines d’expertise
     items:
       - droit-penal
       - droit-du-travail
@@ -88,10 +85,4 @@ blocks:
     section: publications
     title: Les dernières parutions presse du cabinet
     count: 4
-  - type: map
-    location: '{"type":"Point","coordinates":[2.3373296,48.8664207]}'
-    zoom: 13
-    background: false
-    title: Praesent sit amet risus
-    text: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus
 ---

@@ -1,6 +1,10 @@
 ---
 isPage: true
 title: Contact
+hero:
+  surtitle: Lawyerify
+  title: Contactez-nous
+  text: Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc.
 blocks:
   - type: map
     background: false

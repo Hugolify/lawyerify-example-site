@@ -1,12 +1,13 @@
 ---
 isIndex: false
 title: Droit du travail
-description: Le droit du travail régit les relations entre employeurs et
-  employés, notamment les questions liées à la rémunération, à la durée du
-  travail, aux conditions de travail et aux droits et obligations de chacune des
-  parties.
+description: Le droit du travail régit les relations entre employeurs et employés, notamment les questions liées à la rémunération, à la durée du travail, aux conditions de travail et aux droits et obligations de chacune des parties.
 image:
   src: /images/uploads/andrew-neel-cckf4tshauw-unsplash.jpg
+hero:
+  surtitle: Domaine d’expertise
+  title: Droit du travail
+  text: Le droit du travail régit les relations entre employeurs et employés, notamment les questions liées à la rémunération, à la durée du travail, aux conditions de travail et aux droits et obligations de chacune des parties.
 ---
 Le droit du travail est un ensemble de règles juridiques qui régissent les relations entre employeurs et employés. Il a pour objet de protéger les droits et les intérêts des travailleurs, tout en assurant la bonne marche des entreprises. Il concerne aussi bien les aspects contractuels que les aspects liés à la santé, à la sécurité et à l'égalité au travail.
 

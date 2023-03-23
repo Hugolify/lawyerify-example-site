@@ -2,8 +2,7 @@
 isIndex: false
 draft: false
 title: Paris
-description: Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper
-  turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc.
+description: Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc.
 address:
   street: 6 Parvis Notre-Dame - Pl. Jean-Paul II
   zipcode: "75004"
@@ -18,6 +17,13 @@ image:
     Kagan](https://unsplash.com/@allewollenalex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     sur
     [Unsplash](https://unsplash.com/fr/photos/t9Td0zfDTwI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+blocks:
+  - type: map
+    location: '{"type":"Point","coordinates":[2.3373296,48.8664207]}'
+    zoom: 13
+    background: false
+    title: Nullam aliquet sed sem sit amet tristique.
+    text: Quisque ipsum nisi, tempor quis fermentum non, iaculis vel augue.
 ---
 Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt. Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum. 
 
