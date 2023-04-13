@@ -2,7 +2,6 @@
 isPage: true
 draft: false
 title: Mentions légales
-url: mentions-legales
 description: Page des mentions légales
 ---
 En utilisant ce site, vous reconnaissez avoir pris connaissance des dispositions ci-dessous et vous vous engagez à les respecter. Les mentions légales indiquées ci-dessous peuvent être amenées à évoluer, nous vous invitons à les consulter régulièrement.

@@ -4,7 +4,7 @@ draft: false
 title: Amel Ben Amar
 offices:
   - Paris
-statutes: collaborator
+statutes: Collaborateur
 expertises:
   - Droit de la construction et droit immobilier
 related:

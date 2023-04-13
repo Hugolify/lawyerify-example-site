@@ -4,7 +4,7 @@ draft: false
 title: Jeanne Martin
 offices:
   - Bordeaux
-statutes: collaborator
+statutes: Collaborateur
 related:
   - Jane Doe
 description: Suspendisse egestas augue a egestas consectetur. Aliquam interdum

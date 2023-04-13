@@ -4,7 +4,7 @@ draft: false
 title: Omar Durand
 offices:
   - Paris
-statutes: associate
+statutes: Associé
 expertises:
   - Droit du travail
   - Droit des affaires

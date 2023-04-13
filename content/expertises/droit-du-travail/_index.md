@@ -1,20 +1,16 @@
 ---
 isIndex: false
 title: Droit du travail
-description: Le droit du travail régit les relations entre employeurs et employés, notamment les questions liées à la rémunération, à la durée du travail, aux conditions de travail et aux droits et obligations de chacune des parties.
+description: Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna.
 image:
   src: /images/uploads/andrew-neel-cckf4tshauw-unsplash.jpg
 hero:
   surtitle: Domaine d’expertise
   title: Droit du travail
-  text: Le droit du travail régit les relations entre employeurs et employés, notamment les questions liées à la rémunération, à la durée du travail, aux conditions de travail et aux droits et obligations de chacune des parties.
+  text: Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna.
 ---
-Le droit du travail est un ensemble de règles juridiques qui régissent les relations entre employeurs et employés. Il a pour objet de protéger les droits et les intérêts des travailleurs, tout en assurant la bonne marche des entreprises. Il concerne aussi bien les aspects contractuels que les aspects liés à la santé, à la sécurité et à l'égalité au travail.
+Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas. Vivamus consequat leo justo. Sed eu elit nibh. Vestibulum volutpat et nulla quis dapibus. Nunc vel pellentesque lorem. Donec vel consequat augue. Nullam aliquet sed sem sit amet tristique. 
 
 
 
-Les principales règles du droit du travail concernent la rémunération, la durée du travail, les conditions de travail, les licenciements, les congés payés, les absences pour maladie, les accidents du travail, les discriminations et les relations professionnelles. Le droit du travail encadre les obligations des employeurs et des employés, et prévoit des sanctions en cas de non-respect de ces règles.
-
-
-
-Le droit du travail est également un droit en constante évolution, qui s'adapte aux évolutions économiques et sociales. Il est régi par différentes lois et conventions collectives, qui peuvent varier selon les secteurs d'activité. Il est également complété par les négociations collectives entre les employeurs et les syndicats de salariés, qui permettent de fixer les règles spécifiques à chaque entreprise ou à chaque branche professionnelle.
+Mauris ac massa velit. Sed facilisis ligula vel dapibus venenatis. Quisque ipsum nisi, tempor quis fermentum non, iaculis vel augue. Fusce pellentesque nisi hendrerit velit maximus, vitae interdum nibh dictum. Integer malesuada ultrices ipsum non iaculis.

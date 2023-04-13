@@ -4,7 +4,7 @@ draft: false
 title: Alexandre Petit
 offices:
   - Bordeaux
-statutes: collaborator
+statutes: Collaborateur
 expertises:
   - Droit pénal
 related:

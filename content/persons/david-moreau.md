@@ -5,7 +5,7 @@ title: David Moreau
 offices:
   - Bordeaux
   - Paris
-statutes: associate
+statutes: Associé
 expertises:
   - Droit pénal
 description: Aenean bibendum vulputate facilisis. Class aptent taciti sociosqu

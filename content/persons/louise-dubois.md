@@ -4,7 +4,7 @@ draft: false
 title: Louise Dubois
 offices:
   - Bordeaux
-statutes: associate
+statutes: Associé
 expertises:
   - Droit de la construction et droit immobilier
 related: []

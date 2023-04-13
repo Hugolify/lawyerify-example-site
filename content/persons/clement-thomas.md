@@ -4,7 +4,7 @@ draft: false
 title: Clément Thomas
 offices:
   - Paris
-statutes: trainee
+statutes: Stagiaire
 related:
   - Alexandre Petit
 image:

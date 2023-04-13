@@ -4,7 +4,7 @@ draft: false
 title: Léa Payet
 offices:
   - Bordeaux
-statutes: jurist
+statutes: Juriste
 expertises:
   - Droit de la famille
 description: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet
