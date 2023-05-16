@@ -53,7 +53,8 @@ blocks:
     section: persons
     show_more: false
     background: true
-    title: Les associés du cabinet
+    heading:
+      title: Les associés du cabinet
     items:
       - david-moreau
       - louise-dubois
@@ -62,7 +63,8 @@ blocks:
     section: offices
     show_more: false
     background: true
-    title: Deux cabinets à votre disposition
+    heading:
+      title: Deux cabinets à votre disposition
     items:
       - paris
       - bordeaux
@@ -70,19 +72,22 @@ blocks:
     section: expertises
     show_more: false
     background: true
-    title: Les expertises du cabinet
-    text: Découvrez en détail nos domaines d’expertise
+    heading:
+      title: Les expertises du cabinet
+      text: Découvrez en détail nos domaines d’expertise
     items:
       - droit-penal
       - droit-du-travail
       - droit-des-affaires
   - type: latest
     section: posts
-    title: Actualités
-    text: Tous les articles concernant notre cabinet
     count: 3
+    heading:
+      title: Actualités
+      text: Tous les articles concernant notre cabinet
   - type: latest
     section: publications
-    title: Les dernières parutions presse du cabinet
     count: 4
+    heading:
+      title: Les dernières parutions presse du cabinet
 ---
