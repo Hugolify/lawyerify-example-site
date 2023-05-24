@@ -12,6 +12,8 @@ categories: Actualité du cabinet
 tags:
   - Lorem
   - Ipsum
+expertises:
+  - Droit pénal
 image:
   src: /images/uploads/mikhail-pavstyuk-eky2otrpxdw-unsplash.jpg
 ---

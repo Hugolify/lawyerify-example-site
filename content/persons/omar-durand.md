@@ -7,6 +7,7 @@ offices:
 statutes: Associé
 expertises:
   - Droit du travail
+  - Droit pénal
   - Droit des affaires
 description: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum.
 image:

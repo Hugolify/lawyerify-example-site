@@ -9,4 +9,6 @@ title: Sed metus quam, imperdiet ut enim vitae
 press:
   title: Le monde
   url: https://www.lemonde.fr
+expertises:
+  - Droit pénal
 ---

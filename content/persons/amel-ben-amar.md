@@ -6,6 +6,7 @@ offices:
   - Paris
 statutes: Collaborateur
 expertises:
+  - Droit pénal
   - Droit de la construction et droit immobilier
 related:
   - David Moreau

@@ -6,6 +6,7 @@ offices:
   - Bordeaux
 statutes: Juriste
 expertises:
+  - Droit pénal
   - Droit de la famille
 description: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet
   risus augue. Aliquam gravida posuere lectus ut volutpat.
