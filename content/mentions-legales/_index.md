@@ -6,7 +6,7 @@ description: Page des mentions légales
 ---
 En utilisant ce site, vous reconnaissez avoir pris connaissance des dispositions ci-dessous et vous vous engagez à les respecter. Les mentions légales indiquées ci-dessous peuvent être amenées à évoluer, nous vous invitons à les consulter régulièrement.
 
-*Date de dernière mise à jour : février 2023*
+*Date de dernière mise à jour : mai 2023*
 
 ## Publication
 
@@ -16,7 +16,7 @@ Le site web demo.lawyerify.io est la propriété de {{< blank_link link="https:/
 
 ### Hébergement
 
-Le site web demo.hugolify.com est hébergé chez :
+Le site web demo.lawyerify.io est hébergé chez :
 
 Netlify,\
 2325 3rd Street,\
