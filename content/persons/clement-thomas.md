@@ -2,11 +2,9 @@
 isIndex: false
 draft: false
 title: Clément Thomas
-offices:
-  - Paris
 statutes: Stagiaire
-related:
-  - Alexandre Petit
+persons_offices:
+  - paris
 image:
   credit: Photo de [Dmitry
     Vechorko](https://unsplash.com/@vechorko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

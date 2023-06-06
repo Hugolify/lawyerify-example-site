@@ -7,8 +7,8 @@ authors:
 title: Vivamus vestibulum ac purus at pulvinar
 description: Pellentesque rutrum massa consectetur fermentum luctus.
 categories: Actualité du cabinet
-expertises:
-  - Droit du travail
+posts_expertises:
+  - droit-du-travail
 image:
   src: /images/uploads/clarisse-meyer-jku2nnezabi-unsplash.jpg
 ---

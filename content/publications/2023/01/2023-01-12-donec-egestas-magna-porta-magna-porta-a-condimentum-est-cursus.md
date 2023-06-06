@@ -2,9 +2,6 @@
 isIndex: false
 draft: false
 date: 2022-12-07T13:32:38.523Z
-concerned:
-  - lea-payet
-  - alexandre-petit
 title: Donec egestas magna porta magna porta, a condimentum est cursus
 description: >-
   Pellentesque blandit dolor lobortis est aliquam, sed pretium metus aliquam.
@@ -19,4 +16,7 @@ description: >-
 press:
   title: Huffington post
   url: https://www.huffingtonpost.fr/
+publications_concerned:
+  - lea-payet
+  - alexandre-petit
 ---

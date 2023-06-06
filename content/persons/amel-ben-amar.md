@@ -2,14 +2,12 @@
 isIndex: false
 draft: false
 title: Amel Ben Amar
-offices:
-  - Paris
 statutes: Collaborateur
-expertises:
-  - Droit pénal
-  - Droit de la construction et droit immobilier
-related:
-  - David Moreau
+persons_offices:
+  - paris
+persons_expertises:
+  - droit-penal
+  - droit-immobilier
 description: Suspendisse egestas augue a egestas consectetur. Aliquam interdum
   hendrerit porta. Maecenas at quam vel lorem malesuada euismod nec vel nibh.
   Cras ac facilisis nunc.

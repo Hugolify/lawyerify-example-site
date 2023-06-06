@@ -2,13 +2,11 @@
 isIndex: false
 draft: false
 title: Jeanne Martin
-offices:
-  - Bordeaux
 statutes: Collaborateur
-related:
-  - Jane Doe
-expertises:
-  - Droit pénal
+persons_offices:
+  - bordeaux
+persons_expertises:
+  - droit-penal
 description: Suspendisse egestas augue a egestas consectetur. Aliquam interdum
   hendrerit porta. Maecenas at quam vel lorem malesuada euismod nec vel nibh.
   Cras ac facilisis nunc.

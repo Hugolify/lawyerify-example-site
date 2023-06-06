@@ -1,6 +1,6 @@
 ---
 isIndex: false
-title: Droit de la construction et droit immobilier
+title: Droit immobilier
 description: Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor tincidunt tristique id nec urna.
 image:
   src: /images/uploads/josh-olalde-x1p1_ednnok-unsplash.jpg

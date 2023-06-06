@@ -2,12 +2,12 @@
 isIndex: false
 draft: false
 title: Léa Payet
-offices:
-  - Bordeaux
 statutes: Juriste
-expertises:
-  - Droit pénal
-  - Droit de la famille
+persons_offices:
+  - bordeaux
+persons_expertises:
+  - droit-penal
+  - droit-de-la-famille
 description: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet
   risus augue. Aliquam gravida posuere lectus ut volutpat.
 image:

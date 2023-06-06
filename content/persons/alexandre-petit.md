@@ -2,13 +2,11 @@
 isIndex: false
 draft: false
 title: Alexandre Petit
-offices:
-  - Bordeaux
 statutes: Collaborateur
-expertises:
-  - Droit pénal
-related:
-  - Jeanne Martin
+persons_offices:
+  - bordeaux
+persons_expertises:
+  - droit-penal
 description: Ut id fringilla augue, quis gravida felis. Morbi eu lorem nibh.
   Aenean ullamcorper, ante nec imperdiet dignissim, ante felis scelerisque
   magna, id rutrum ipsum leo id massa. Integer egestas risus in ex venenatis

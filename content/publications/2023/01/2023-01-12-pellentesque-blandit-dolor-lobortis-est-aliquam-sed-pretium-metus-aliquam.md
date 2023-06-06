@@ -2,9 +2,6 @@
 isIndex: false
 draft: false
 date: 2023-01-04T13:17:14.921Z
-concerned:
-  - jeanne-martin
-  - alexandre-petit
 title: Pellentesque blandit dolor lobortis est aliquam, sed pretium metus aliquam.
 description: Morbi et finibus nisi, sit amet ullamcorper neque. Class aptent
   taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
@@ -13,4 +10,7 @@ description: Morbi et finibus nisi, sit amet ullamcorper neque. Class aptent
 press:
   title: Mediapart
   url: https://www.mediapart.fr/
+publications_concerned:
+  - jeanne-martin
+  - alexandre-petit
 ---

@@ -2,13 +2,13 @@
 isIndex: false
 draft: false
 title: Omar Durand
-offices:
-  - Paris
 statutes: Associé
-expertises:
-  - Droit du travail
-  - Droit pénal
-  - Droit des affaires
+persons_offices:
+  - paris
+persons_expertises:
+  - droit-du-travail
+  - droit-penal
+  - droit-des-affaires
 description: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum.
 image:
   src: /images/uploads/ali-morshedlou-wmd64tmfc4k-unsplash.jpg

@@ -2,12 +2,11 @@
 isIndex: false
 draft: false
 title: Louise Dubois
-offices:
-  - Bordeaux
 statutes: Associé
-expertises:
-  - Droit de la construction et droit immobilier
-related: []
+persons_offices:
+  - bordeaux
+persons_expertises:
+  - droit-immobilier
 description: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin
   lectus dictum. Donec varius velit nisi, a accumsan odio molestie ut. Donec
   quis tristique elit. Nunc tempus tempor neque a fringilla.
