@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: Louise Dubois
-statutes: Associé
+persons_statutes: Associé
 persons_offices:
   - bordeaux
 persons_expertises:

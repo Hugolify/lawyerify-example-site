@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: David Moreau
-statutes: Associé
+persons_statutes: Associé
 persons_offices:
   - bordeaux
   - paris

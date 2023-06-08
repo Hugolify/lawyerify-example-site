@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: Alexandre Petit
-statutes: Collaborateur
+persons_statutes: Collaborateur
 persons_offices:
   - bordeaux
 persons_expertises:

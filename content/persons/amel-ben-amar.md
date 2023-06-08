@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: Amel Ben Amar
-statutes: Collaborateur
+persons_statutes: Collaborateur
 persons_offices:
   - paris
 persons_expertises:

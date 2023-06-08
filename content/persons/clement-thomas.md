@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: Clément Thomas
-statutes: Stagiaire
+persons_statutes: Stagiaire
 persons_offices:
   - paris
 image:

@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: Jeanne Martin
-statutes: Collaborateur
+persons_statutes: Collaborateur
 persons_offices:
   - bordeaux
 persons_expertises:

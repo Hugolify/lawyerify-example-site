@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: Omar Durand
-statutes: Associé
+persons_statutes: Associé
 persons_offices:
   - paris
 persons_expertises:

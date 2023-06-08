@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 title: Léa Payet
-statutes: Juriste
+persons_statutes: Juriste
 persons_offices:
   - bordeaux
 persons_expertises:
