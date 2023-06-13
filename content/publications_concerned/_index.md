@@ -1,4 +1,4 @@
 ---
 title: Personnes concernées
-url: /parutions/personnes-concernees
+url: parutions/personnes-concernees
 ---

@@ -5,6 +5,7 @@ title: Clément Thomas
 persons_statutes: Stagiaire
 persons_offices:
   - paris
+description: Aenean bibendum vulputate facilisis.
 image:
   credit: Photo de [Dmitry
     Vechorko](https://unsplash.com/@vechorko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

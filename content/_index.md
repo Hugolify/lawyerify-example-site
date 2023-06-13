@@ -20,7 +20,7 @@ blocks:
   - type: editorial
     cta:
       blank: false
-      text: Découvrir nos cabinets
+      text: Découvrir nos bureaux
       url: /cabinets
     direction: rtl
     title: Le cabinet
@@ -32,23 +32,17 @@ blocks:
       Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc. Mauris tincidunt velit sed rhoncus tincidunt.
     image:
       src: /images/uploads/clarisse-meyer-jku2nnezabi-unsplash.jpg
-  - type: editorial
-    direction: ltr
-    cta:
-      blank: false
-      url: /expertises
-      text: Nos domaines d’expertise en détail
+  - type: selected-expertises
+    section: expertises
+    show_more: false
     background: false
-    image:
-      src: /images/uploads/mikhail-pavstyuk-eky2otrpxdw-unsplash.jpg
-    title: Nos expertises
-    text: >-
-      Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet risus augue. Aliquam gravida posuere lectus ut volutpat. Quisque sed tortor vel tortor. 
-
-
-
-
-      Cras vel tincidunt urna. Aliquam tempor tincidunt augue, in iaculis neque consectetur et.
+    heading:
+      title: Les expertises du cabinet
+      text: Découvrez en détail nos domaines d’expertise
+    items:
+      - droit-penal
+      - droit-du-travail
+      - droit-des-affaires
   - type: selected-persons
     section: persons
     show_more: false
@@ -68,17 +62,7 @@ blocks:
     items:
       - paris
       - bordeaux
-  - type: selected-expertises
-    section: expertises
-    show_more: false
-    background: true
-    heading:
-      title: Les expertises du cabinet
-      text: Découvrez en détail nos domaines d’expertise
-    items:
-      - droit-penal
-      - droit-du-travail
-      - droit-des-affaires
+  
   - type: latest
     section: posts
     count: 3

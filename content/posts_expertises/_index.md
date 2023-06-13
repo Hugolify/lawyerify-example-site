@@ -1,4 +1,4 @@
 ---
 title: Expertises
-url: /actualites/expertises
+url: actualites/expertises
 ---

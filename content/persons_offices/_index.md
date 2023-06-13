@@ -1,4 +1,4 @@
 ---
-title: Offices
-url: equipe/offices
+title: Cabinets
+url: equipe/cabinets
 ---

@@ -13,7 +13,7 @@ description: Suspendisse egestas augue a egestas consectetur. Aliquam interdum
 image:
   src: /images/uploads/christina-wocintechchat-com-0zx1bdv5bny-unsplash.jpg
 contact:
-  email: contact@lawyerify.fr
+  email: contact@lawyerify.io
   phone: +33 (0) 1 12 34 56 78
   linkedin: https://www.linkedin.com/
   twitter: jeanne_martin

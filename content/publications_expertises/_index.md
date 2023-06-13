@@ -1,4 +1,4 @@
 ---
 title: Expertises
-url: /parutions/expertises
+url: parutions/expertises
 ---
