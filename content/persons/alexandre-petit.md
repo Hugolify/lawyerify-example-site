@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Alexandre Petit
 persons_statutes: Collaborateur
-persons_offices:
+persons_places:
   - bordeaux
 persons_expertises:
   - droit-penal

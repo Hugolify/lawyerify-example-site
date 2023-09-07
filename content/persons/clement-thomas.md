@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Clément Thomas
 persons_statutes: Stagiaire
-persons_offices:
+persons_places:
   - paris
 description: Aenean bibendum vulputate facilisis.
 image:

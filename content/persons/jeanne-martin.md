@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Jeanne Martin
 persons_statutes: Collaborateur
-persons_offices:
+persons_places:
   - bordeaux
 persons_expertises:
   - droit-penal

@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Omar Durand
 persons_statutes: Associé
-persons_offices:
+persons_places:
   - paris
 persons_expertises:
   - droit-du-travail

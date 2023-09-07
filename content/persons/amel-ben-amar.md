@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Amel Ben Amar
 persons_statutes: Collaborateur
-persons_offices:
+persons_places:
   - paris
 persons_expertises:
   - droit-penal

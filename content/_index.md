@@ -53,8 +53,8 @@ blocks:
       - david-moreau
       - louise-dubois
       - omar-durand
-  - type: selected-offices
-    section: offices
+  - type: selected-places
+    section: places
     show_more: false
     background: true
     heading:

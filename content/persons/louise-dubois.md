@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 title: Louise Dubois
 persons_statutes: Associé
-persons_offices:
+persons_places:
   - bordeaux
 persons_expertises:
   - droit-immobilier
