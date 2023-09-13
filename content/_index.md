@@ -3,11 +3,9 @@ isIndex: true
 title: Accueil
 hero:
   surtitle: Lawyerify
-  title: Site de démonstration de notre cabinet d’avocats
+  title: Notre cabinet d’avocats
   text: >-
-    Voici un site de démonstration pour la solution Lawyerify.\
-
-    La volonté graphique de neutralité permet de découvrir les fonctionnalités et les informations possibles à renseigner.
+    Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu. Suspendisse egestas augue a egestas consectetur. Aliquam interdum hendrerit porta.
   cta:
     blank: false
     text: Décourvrir
