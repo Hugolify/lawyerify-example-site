@@ -72,4 +72,9 @@ blocks:
     count: 4
     heading:
       title: Les dernières parutions presse du cabinet
+  - type: latest
+    section: realestates
+    count: 3
+    heading:
+      title: Les dernières ventes aux enchères
 ---
