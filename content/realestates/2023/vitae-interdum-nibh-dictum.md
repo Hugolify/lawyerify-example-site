@@ -6,7 +6,7 @@ description: Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tor
 realestates_persons:
   - alexandre-petit
   - clement-thomas
-realestates_types: Appartement
+realestates_categories: Appartement
 realestates_sellers: Tribunal judiciaire de Bordeaux
 reference: ID012453687
 image:

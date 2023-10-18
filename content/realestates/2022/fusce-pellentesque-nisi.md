@@ -5,7 +5,7 @@ title: Fusce pellentesque nisi
 description: Cras consectetur turpis sed pharetra venenatis. Duis vehicula a tortor nec egestas.
 realestates_persons:
   - alexandre-petit
-realestates_types: Appartement
+realestates_categories: Appartement
 realestates_sellers: Tribunal judiciaire de Libourne
 reference: ID012453687
 image:
