@@ -6,7 +6,7 @@ title: Sed metus quam, imperdiet ut enim vitae
 press:
   title: Le monde
   url: https://www.lemonde.fr
-publications_concerned:
+publications_persons:
   - alexandre-petit
   - louise-dubois
 publications_categories:

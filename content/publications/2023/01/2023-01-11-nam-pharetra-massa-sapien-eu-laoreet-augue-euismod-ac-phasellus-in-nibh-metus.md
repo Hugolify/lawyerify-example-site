@@ -10,7 +10,7 @@ description: "Pellentesque et tempor libero, vel euismod nibh. Nunc ut ornare
 press:
   title: Le Parisien
   url: https://www.leparisien.fr/
-publications_concerned:
+publications_persons:
   - amel-ben-amar
   - alexandre-petit
 publications_expertises:

@@ -10,7 +10,7 @@ description: Morbi et finibus nisi, sit amet ullamcorper neque. Class aptent
 press:
   title: Mediapart
   url: https://www.mediapart.fr/
-publications_concerned:
+publications_persons:
   - jeanne-martin
   - alexandre-petit
 ---

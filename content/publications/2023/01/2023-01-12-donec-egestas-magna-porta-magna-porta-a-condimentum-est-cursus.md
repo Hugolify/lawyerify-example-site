@@ -16,7 +16,7 @@ description: >-
 press:
   title: Huffington post
   url: https://www.huffingtonpost.fr/
-publications_concerned:
+publications_persons:
   - lea-payet
   - alexandre-petit
 ---
