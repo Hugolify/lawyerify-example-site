@@ -9,7 +9,7 @@ hero:
   cta:
     blank: false
     text: Décourvrir
-    url: "#main"
+    url: '#main'
   cta_second:
     text: Lawyerify
     url: https://www.lawyerify.io
@@ -60,7 +60,7 @@ blocks:
     items:
       - paris
       - bordeaux
-  
+
   - type: latest
     section: posts
     count: 3

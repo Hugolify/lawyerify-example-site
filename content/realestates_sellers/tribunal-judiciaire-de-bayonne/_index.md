@@ -1,7 +1,7 @@
 ---
 isIndex: false
 title: Tribunal judiciaire de Bayonne
-address: 
+address:
   street: 17 Av. de la Légion Tchèque
   zipcode: 64100
   city: Bayonne
