@@ -1,7 +1,7 @@
 ---
 isIndex: false
 title: Tribunal judiciaire de Dax
-address: 
+address:
   street: Rue des Fusillés
   zipcode: 40100
   city: Dax
